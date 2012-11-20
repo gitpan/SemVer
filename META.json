@@ -4,7 +4,7 @@
       "David E. Wheeler <david@kineticode.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.110440",
+   "generated_by" : "Module::Build version 0.4003, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -39,7 +39,7 @@
    "provides" : {
       "SemVer" : {
          "file" : "lib/SemVer.pm",
-         "version" : "v0.3.0"
+         "version" : "v0.4.0"
       }
    },
    "release_status" : "stable",
@@ -55,5 +55,5 @@
          "url" : "http://github.com/theory/semver/tree/"
       }
    },
-   "version" : "v0.3.0"
+   "version" : "v0.4.0"
 }

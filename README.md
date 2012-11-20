@@ -1,4 +1,4 @@
-SemVer version 0.3.0
+SemVer version 0.4.0
 ====================
 
 This module subclasses [`version`] to create semantic versions, as defined by
@@ -38,7 +38,7 @@ SemVer requires version.
 Copyright and License
 ---------------------
 
-Copyright (c) 2010 David E. Wheeler. Some Rights Reserved.
+Copyright (c) 2010-2012 David E. Wheeler. Some Rights Reserved.
 
 This module is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.

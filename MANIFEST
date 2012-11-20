@@ -2,9 +2,9 @@ Build.PL
 Changes
 lib/SemVer.pm
 MANIFEST			This list of files
+META.json
+META.yml
 README.md
 t/base.t
 t/pod-coverage.t
 t/pod.t
-META.yml
-META.json
